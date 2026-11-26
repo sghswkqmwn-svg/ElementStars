@@ -1,0 +1,28 @@
+# ============================
+# ElementStars Messages
+# ============================
+
+prefix: "&6[ElementStars] "
+
+player-only: "&cOnly players can use this command."
+no-permission: "&cYou don't have permission to use this command."
+
+reload-success: "&aConfiguration reloaded successfully."
+
+star:
+  received: "&aYou have received the &e%star% &aStar!"
+  already-have: "&cYou already have a Star."
+  removed: "&cYour Star has been removed."
+  choosing: "&eChoosing your Star..."
+  selected: "&aYour Star is: &6%star%"
+
+admin:
+  give-success: "&aSuccessfully gave %player% the %star% Star."
+  reset-success: "&aSuccessfully reset %player%'s Star."
+
+cooldown:
+  active: "&cYou must wait %time% seconds before using this ability again."
+
+error:
+  unknown-star: "&cUnknown Star."
+  player-not-found: "&cPlayer not found."
