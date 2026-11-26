@@ -1,0 +1,24 @@
+# ============================
+# ElementStars Configuration
+# ============================
+
+plugin:
+  prefix: "&6[ElementStars]"
+
+join-animation:
+  enabled: true
+  duration: 5
+
+stars:
+  fire: true
+  water: true
+  air: true
+  earth: true
+  elemental: true
+
+cooldowns:
+  fire-ultimate: 120
+  water-heal: 30
+  air-flight: 45
+  earth-smash: 60
+  elemental-storm: 180
