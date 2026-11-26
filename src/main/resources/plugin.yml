@@ -1,0 +1,21 @@
+name: ElementStars
+version: '1.0.0'
+main: me.elementstars.ElementStars
+api-version: '1.21'
+author: Ff Ggg
+description: Premium Element Stars Plugin for Paper 1.21.11
+
+commands:
+  star:
+    description: Main ElementStars command
+    usage: /star
+    permission: elementstars.use
+
+permissions:
+  elementstars.use:
+    description: Allows using the /star command
+    default: true
+
+  elementstars.admin:
+    description: Full admin access to ElementStars
+    default: op
